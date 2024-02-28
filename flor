@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Animación de Flor</title>
+</head>
+<body class="not-loaded">
+    <div class="night"></div>
+    <!-- Estructura HTML para la animación de la flor -->
+    <!-- ... (ver código completo en el enlace) ... -->
+</body>
+<script>
+    // JavaScript para manejar la animación
+    // ... (ver código completo en el enlace) ...
+</script>
+</html>
